@@ -12,7 +12,7 @@ Heroku: https://covid-19-tracker-by-jlmf.herokuapp.com
 Yes. Open http://localhost:3000 to view it in the browser (Google Chrome ideally).
 
 ### Directory Tree
-<img src="Image/Directory_Covid-19-App.png" width="50%">
+<img src="Image/Directory_Covid-19-App.png" width="70%">
 
 ### Technologies
 1. Node.js (Server-side)
