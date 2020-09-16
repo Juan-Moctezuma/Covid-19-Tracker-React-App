@@ -1,7 +1,29 @@
-CLICK THE FOLLOWING LINK: https://covid-19-tracker-by-jlmf.herokuapp.com
+# COVID-19 Tracker App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Introduction
+This front-end / React js application visualizes Covid-19 statistics throughout graphs and charts.
+The user may filter the data by selecting a country. Data is provided by an API, which is updated 
+every 2-3 times per week.
 
+### Link
+Heroku: https://covid-19-tracker-by-jlmf.herokuapp.com
+
+### Does the code require a local web server to run?
+Yes. Open http://localhost:3000 to view it in the browser (Google Chrome ideally).
+
+### Directory Tree
+<img src="Image/Directory_Covid-19-App.png" width="50%">
+
+### Technologies
+1. Node.js (Server-side)
+2. API: https://covid19.mathdro.id/api
+3. React js:
+   * Charts js
+   * ES6 Syntax
+   * Hooks
+   * Material UI
+
+# EXTRA
 ## Available Scripts
 
 In the project directory, you can run:
@@ -9,8 +31,6 @@ In the project directory, you can run:
 ### `yarn start`
 
 Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
