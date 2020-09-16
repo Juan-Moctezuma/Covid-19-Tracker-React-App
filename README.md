@@ -20,9 +20,10 @@ Yes. Open http://localhost:3000 to view it in the browser (Google Chrome ideally
 3. React js:
    * Axios
    * Charts js
-   * ES6 Syntax
+   * ES6 (Syntax)
    * Express
    * Hooks
+   * JSX (Syntax)
    * Material UI
 
 
